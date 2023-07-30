@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-<img src="./frontend/public/images/screen.png">
+<img src="./frontend/public/images/screen.jpg">
 
 It is a full-featured shopping cart with PayPal & credit/debit payments.
 
